@@ -15,3 +15,7 @@ breaks: inputs have to be the same type.
 The function "multiply" multiplies the two variables you define.
 For example multiply(6,5) multiplies 6 and 5.
 The function will break down if there are more or less than two variables defined.
+
+
+The function sum_list sums the elements in the given array. 
+For example sum_list([10, 5, 5]) adds the items and returns 20 in this case.
