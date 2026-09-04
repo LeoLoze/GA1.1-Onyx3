@@ -19,6 +19,6 @@ The function "multiply" multiplies the two variables you define.
 For example multiply(6,5) multiplies 6 and 5.
 The function will break down if there are more or less than two variables defined.
 
-# square funtion:
-the square function uses the multiply function to completing square.
-example -- square(5) = 25 -- (5*5)
+
+The function sum_list sums the elements in the given array. 
+For example sum_list([10, 5, 5]) adds the items and returns 20 in this case.
