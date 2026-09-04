@@ -2,6 +2,9 @@
 
 subtract function, subtract(a, b):
 subtracts input b from input a. for example: subtract(8, 2) outputs 6
+distance from zero function, distance_from_zero(x):
+This function computes the distance from zero from the given variabel x.
+It breaks if there are more or less than 1 variable given.
 add function:
 adds up 2 numbers.
 
